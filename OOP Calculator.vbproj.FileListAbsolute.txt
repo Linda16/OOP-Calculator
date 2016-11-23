@@ -1,0 +1,156 @@
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe.config
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.pdb
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.xml
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Common_issues.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Help_and_Support.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Login.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Quotation.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Resources.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Registration.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.vbproj.GenerateResource.Cache
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.exe
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.xml
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.pdb
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe.config
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.exe
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.xml
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.pdb
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.pdb
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.xml
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Common_issues.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Help_and_Support.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Login.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Quotation.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Resources.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Registration.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.vbproj.GenerateResource.Cache
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.UserDetails.resources
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe.config
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.exe
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.xml
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.pdb
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.pdb
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.xml
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Common_issues.resources
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.UserDetails.resources
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Help_and_Support.resources
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Login.resources
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Quotation.resources
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Resources.resources
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Registration.resources
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.vbproj.GenerateResource.Cache
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_One___Registration.resources
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_Two___Login.resources
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_Three___Quotation.resources
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Login__Section_One_.resources
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Quotation__Section_Two_.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Login__Section_One_.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Quotation__Section_Two_.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_One___Registration.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_Three___Quotation.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_Two___Login.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe.config
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.exe
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.xml
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.pdb
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.pdb
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.xml
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Common_issues.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Login__Section_One_.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Quotation__Section_Two_.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_One___Registration.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_Three___Quotation.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_Two___Login.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.UserDetails.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Help_and_Support.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Login.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Quotation.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Resources.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Registration.resources
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.vbproj.GenerateResource.Cache
+F:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Use_Quotation.resources
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Use_Quotation.resources
+\\fs2\shd\U6\s1003658\Desktop\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Use_Quotation.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe.config
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.exe
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.xml
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.pdb
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.pdb
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.xml
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Common_issues.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Login__Section_One_.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Quotation__Section_Two_.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_One___Registration.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_Three___Quotation.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_Two___Login.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Use_Quotation.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.UserDetails.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Help_and_Support.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Login.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Quotation.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Resources.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Registration.resources
+E:\BTEC L3\2014-2015\IT\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.vbproj.GenerateResource.Cache
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Xiao Units\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe.config
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Xiao Units\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.exe
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Xiao Units\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.xml
+D:\BTEC L3\2014-2015\IT\Mr. Tahir\Xiao Units\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.pdb
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe.config
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.exe
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.xml
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.pdb
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.pdb
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.xml
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Common_issues.resources
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Login__Section_One_.resources
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Quotation__Section_Two_.resources
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_One___Registration.resources
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_Three___Quotation.resources
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_Two___Login.resources
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Use_Quotation.resources
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.UserDetails.resources
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Help_and_Support.resources
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Login.resources
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Quotation.resources
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Resources.resources
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Registration.resources
+Z:\Me\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.vbproj.GenerateResource.Cache
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe.config
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.exe
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.xml
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Mr. Tahir\Unit 15\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.pdb
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe.config
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.exe
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.xml
+Z:\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.pdb
+\\fs1\shd\TongX\My Documents\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe.config
+\\fs1\shd\TongX\My Documents\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.exe
+\\fs1\shd\TongX\My Documents\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.xml
+\\fs1\shd\TongX\My Documents\Me\Apprentice Junior System Developer 10.08.2016\Portfolio of IT 2016\Samples\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.pdb
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe.config
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.exe
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.xml
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.pdb
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.exe
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.pdb
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\bin\Debug\OOP Calculator.xml
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Common_issues.resources
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Login__Section_One_.resources
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Quotation__Section_Two_.resources
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_One___Registration.resources
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_Three___Quotation.resources
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Section_Two___Login.resources
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Use_Quotation.resources
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.UserDetails.resources
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Help_and_Support.resources
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Login.resources
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Quotation.resources
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Resources.resources
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\WindowsApplication1.Registration.resources
+E:\Apprentice Junior Systems Developer 2016\Windows production - Microsoft Visual Studio\OOP Calculator\OOP Calculator\obj\Debug\OOP Calculator.vbproj.GenerateResource.Cache

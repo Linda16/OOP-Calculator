@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5543D519-B5AC-4996-9E2D-1E4776032B6E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>OOP Calculator</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>OOP Calculator.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>OOP Calculator.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common issues.Designer.vb">
+      <DependentUpon>Common issues.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Common issues.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login %28Section Two%29.Designer.vb">
+      <DependentUpon>Login %28Section Two%29.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login %28Section Two%29.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quotation %28Section Three%29.Designer.vb">
+      <DependentUpon>Quotation %28Section Three%29.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Quotation %28Section Three%29.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section One - Registration.Designer.vb">
+      <DependentUpon>Section One - Registration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Section One - Registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section Three - Quotation.Designer.vb">
+      <DependentUpon>Section Three - Quotation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Section Three - Quotation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section Two - Login.Designer.vb">
+      <DependentUpon>Section Two - Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Section Two - Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Use Quotation.Designer.vb">
+      <DependentUpon>Use Quotation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Use Quotation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserDetails.Designer.vb">
+      <DependentUpon>UserDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help and Support.Designer.vb">
+      <DependentUpon>Help and Support.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Help and Support.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyFirstClass.vb" />
+    <Compile Include="Quotation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quotation.Designer.vb">
+      <DependentUpon>Quotation.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Registration.Designer.vb">
+      <DependentUpon>Registration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Common issues.resx">
+      <DependentUpon>Common issues.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login %28Section Two%29.resx">
+      <DependentUpon>Login %28Section Two%29.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quotation %28Section Three%29.resx">
+      <DependentUpon>Quotation %28Section Three%29.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section One - Registration.resx">
+      <DependentUpon>Section One - Registration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Three - Quotation.resx">
+      <DependentUpon>Section Three - Quotation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Two - Login.resx">
+      <DependentUpon>Section Two - Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Use Quotation.resx">
+      <DependentUpon>Use Quotation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserDetails.resx">
+      <DependentUpon>UserDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help and Support.resx">
+      <DependentUpon>Help and Support.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quotation.resx">
+      <DependentUpon>Quotation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\Common_issues.datasource" />
+    <None Include="My Project\DataSources\Help_and_Support.datasource" />
+    <None Include="My Project\DataSources\Login.datasource" />
+    <None Include="My Project\DataSources\Login__Section_One_.datasource" />
+    <None Include="My Project\DataSources\MyFirstClass.datasource" />
+    <None Include="My Project\DataSources\MySecondClass.datasource" />
+    <None Include="My Project\DataSources\Quotation.datasource" />
+    <None Include="My Project\DataSources\Quotation__Section_Two_.datasource" />
+    <None Include="My Project\DataSources\Registration.datasource" />
+    <None Include="My Project\DataSources\Section_One___Registration.datasource" />
+    <None Include="My Project\DataSources\Section_Three___Quotation.datasource" />
+    <None Include="My Project\DataSources\Section_Two___Login.datasource" />
+    <None Include="My Project\DataSources\UserDetails.datasource" />
+    <None Include="My Project\DataSources\Use_Quotation.datasource" />
+    <None Include="My Project\DataSources\WindowsApplication1.My.MyApplication.datasource" />
+    <None Include="My Project\DataSources\WindowsApplication1.My.MySettings.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
